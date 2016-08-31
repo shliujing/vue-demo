@@ -1,4 +1,6 @@
-# DEMO说明
+# README
+
+Learn form: http://www.runoob.com/w3cnote/vue-js-quickstart.html
 
 ## 1
 
