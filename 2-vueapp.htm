@@ -1,0 +1,13 @@
+<meta charset="utf-8">
+<script src="vue.min.js"></script>
+
+<div id="app">
+  <p>不会变化：{{* message }}</p><!-- 不会变化 -->
+  <p>会变化：{{ message }}</p>
+  <p>字符串连接：{{ message + '官网地址：www.runoob.com' }}</p><!-- 字符串连接 -->
+  <p>字符串反转：{{ message.split('').reverse().join('') }}</p><!-- 字符串反转 -->
+  <input v-model="message">
+</div>
+
+
+<script src="vueapp.js"></script>

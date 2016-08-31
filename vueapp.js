@@ -1,6 +1,6 @@
 new Vue({
   el: '#app',
   data: {
-    message: '菜鸟教程!'
+    message: '我会变动!'
   }
 })
