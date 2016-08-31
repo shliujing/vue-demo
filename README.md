@@ -16,7 +16,7 @@ new Vue({
 
 ## 2
 
-同[1](/#1)，实时变化
+同[1](#1)，实时变化
 ```
 {{ message }}
 
@@ -81,7 +81,7 @@ Vue.filter('reverse', function (value) {
 new Vue({
   el: '#app',
   data: {
-      message:'www.runoob.com'
+      message:'www.iamlj.com'
   }
 })
 ```
